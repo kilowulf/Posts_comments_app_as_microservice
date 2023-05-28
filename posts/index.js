@@ -5,6 +5,7 @@ const cors = require("cors");
 const axios = require("axios");
 
 // Docker image: 582da0b232aa91f6922ab91c7511df4c9fd70389d0ce4464e076c7c613abd16a
+// new stuff
 
 const PORT = 4000;
 const posts = {};
