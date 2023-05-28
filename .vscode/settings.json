@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "kubernetes://schema/apps/v1@deployment+v1@service": "file:///e%3A/Programming%20Projects/Javascript/Microservices_React_js_course/Posts_comments_app/infra/k8s/event-bus-depl.yaml"
+  }
+}
